@@ -11,17 +11,13 @@ p
 {
 text-align:center;
 }
-ol
+ol, li
 {
 text-align:center;
 }
 
-table
+table, tr, td
 {
 text-align:center;
 border: 1px solid black;
-}
-td
-{
-border: 1px solid black; 
 }
