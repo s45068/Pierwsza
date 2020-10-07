@@ -16,8 +16,12 @@ ol
 text-align:center;
 }
 
-table, tr, td
+table
 {
 text-align:center;
 border: 1px solid black;
+}
+td
+{
+border: 1px solid black; 
 }
